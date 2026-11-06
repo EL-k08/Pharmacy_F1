@@ -125,7 +125,7 @@ export const InteractiveHub: React.FC<InteractiveHubProps> = ({
 
       {/* DESKTOP SPLIT LAYOUT: CONTENT ON RIGHT/CENTER, SLEEK NAVIGATION DOCK ON THE LEFT */}
       {/* In RTL: flex-row-reverse places the dock on the physical LEFT side, leaving the right side open! */}
-      <div className="flex flex-col lg:flex-row-reverse lg:items-start lg:gap-8">
+      <div className="flex flex-col lg:flex-row lg:items-start lg:gap-8">
         
         {/* LEFT SIDE DOCK (Requirement 2: Sleek, non-obstructive left navigation) */}
         <aside className="hidden lg:block w-72 shrink-0 sticky top-24 space-y-4 text-right">
