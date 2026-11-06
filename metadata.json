@@ -1,0 +1,8 @@
+{
+  "name": "سامانه نسخه\u200cیار تفت | پایش زنده و آماده\u200cسازی نسخه بدون صف",
+  "description": "سامانه هوشمند سلامت و خدمات دارویی شهرستان تفت با پایش زنده مراحل تحویل دارو، استعلام آنلاین، OCR هوشمند نسخه\u200cها و تسهیلات اقساطی سلامت",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
